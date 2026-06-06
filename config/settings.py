@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w7-ay(u+!c2yok(71$f(9h)fg0u(eiz=1=q*kgfd(1qo$qp@e#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [localhost', '127.0.0.1', 'ai-news-summarizer-gp31.onrender.com]
 
 
 # Application definition
